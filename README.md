@@ -44,7 +44,7 @@ Pre-requisites: You should have docker and docker-compose already installed
 ### Run it locally
 #### Clone the repo
 ```
-$ git clone https://github.com/samarthhapse/HM0034_404NOTFOUND
+$ git clone https://github.com/Sarthakmhase/HM0034_404NOTFOUND
 ```
 ### docker-compose
 In the project root run:
