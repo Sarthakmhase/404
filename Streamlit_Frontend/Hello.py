@@ -15,7 +15,7 @@ st.write("Solution : ")
 st.markdown(
     """
     A diet recommendation web application using content-based approach with Scikit-Learn, FastAPI and Streamlit.
-    You can find more details and the whole project on our [repo](https://github.com/samarthhapse/HM0034_404NOTFOUND).
+    You can find more details and the whole project on our [repo](https://github.com/Sarthakmhase/HM0034_404NOTFOUND).
     """
 )
 
