@@ -55,7 +55,7 @@ Then open http://localhost:8501 and enjoy :smiley:.
 
 
 ### Deployed Url
-[Link to Deployed Solution](gfgpccoe.in)
+[Link to Deployed Solution](video_url](https://www.loom.com/share/8f2a8edd7630414cad27b9ff4d708947?sid=c5fcdf0d-145c-40f3-ac7d-9e8cdcf2ecef)https://www.loom.com/share/8f2a8edd7630414cad27b9ff4d708947?sid=c5fcdf0d-145c-40f3-ac7d-9e8cdcf2ecef)
 
-### Video Url
-[Link to Demo Video](video_url)
+### Presentation Url
+[Link to Demo Video](https://www.loom.com/share/d29176f3361045b5972dc3e1c6c70147?sid=07141d3f-e541-4460-bec0-1307e3dd65b5)
